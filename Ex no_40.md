@@ -61,9 +61,13 @@ To write a C program to print each permutation as a list of space-separated stri
 
 ## Algorithm
 1.Start the program by reading the integer n and the array of strings from the user.
+
 2.Sort the array of strings to ensure lexicographical order.
+
 3.Generate the next permutation using the next_permutation() function.
+
 4.Print each permutation without duplicates by keeping track of previously printed permutations.
+
 5.End the program.
 
 ## Program:
