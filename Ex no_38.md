@@ -29,9 +29,13 @@ To write a C program to print the lowercase English word corresponding to the nu
 
 ## Algorithm
 1.Start the program and declare an integer variable to store input.
+
 2.Read the integer input from the user.
+
 3.Use a switch or if-else ladder to match numbers from 41 to 49 with their word form.
+
 4.If the number is greater than 49, print "Greater than 49".
+
 5.End the program.
 
 ## Program:
