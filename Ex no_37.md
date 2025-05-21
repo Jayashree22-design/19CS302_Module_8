@@ -55,9 +55,13 @@ To write a C program to print the sum and difference of both integers separated 
 
 ## Algorithm
 1.Start the program and declare two int and two float variables.
+
 2.Read two integers from the first line and two floats from the second line.
+
 3.Calculate the sum and difference of the integers.
+
 4.Calculate the sum and difference of the float values.
+
 5.Print the integer results and float results rounded to 1 decimal place.
 
 ## Program:
