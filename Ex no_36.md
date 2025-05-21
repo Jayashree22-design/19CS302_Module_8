@@ -15,9 +15,13 @@ To write a C program to print Hello Saveetha! on a single line, and then print t
 
 ## Algorithm
 1.Start the program and declare a character array to store the input string.
+
 2.Use gets() or fgets() to read a line of input from the user.
+
 3.Print "Hello Saveetha!" on the first line.
+
 4.Print the user-provided input string on the next line.
+
 5.End the program.
 
 ## Program:
